@@ -1,6 +1,8 @@
-# Mission 3
+# Mission 3 - Team Assignment
 
-- [Mission 3](#mission-3)
+> Check the Mission Page on the Portal for further instructions.
+
+- [Mission 3 - Team Assignment](#mission-3---team-assignment)
 	- [Turners Car Insurance](#turners-car-insurance)
 		- [The Client](#the-client)
 		- [The Project Brief](#the-project-brief)
