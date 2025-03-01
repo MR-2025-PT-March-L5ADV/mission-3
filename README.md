@@ -46,6 +46,3 @@ The following resource may help:
 
 - **RECOMMENDED** Google Gemini API Documentation https://ai.google.dev/gemini-api/docs (1 hour)
 - **RECOMMENDED**  Prompting Strategies https://ai.google.dev/gemini-api/docs/prompting-strategies  (1 hour)
-
-
-
