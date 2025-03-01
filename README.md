@@ -1,12 +1,13 @@
 # Mission 3
 
 - [Mission 3](#mission-3)
-	- [Introduction](#introduction)
+	- [Turners Car Insurance](#turners-car-insurance)
 		- [The Client](#the-client)
 		- [The Project Brief](#the-project-brief)
-	- [Build a Mock Job Interview Application using Generative AI](#build-a-mock-job-interview-application-using-generative-ai)
+	- [Development Tasks](#development-tasks)
+		- [Build a Mock Job Interview Application using Generative AI](#build-a-mock-job-interview-application-using-generative-ai)
 
-## Introduction
+## Turners Car Insurance
 
 ### The Client
 
@@ -16,7 +17,9 @@ Turners Car Auctions is a market leader in the automotive industry in New Zealan
 
 Turners is currently undertaking a major re-design of its motor vehicle insurance systems and processes, including an investigation of ways in which the introduction of new technologies can enhance the buyer experience. Here is some information about motor vehicle insurance at [Turners](https://www.turners.co.nz/Cars/finance-insurance/car-insurance/).  You have just been assigned to the project team to help create a new insurance buying experience.
 
-## Build a Mock Job Interview Application using Generative AI
+## Development Tasks
+
+### Build a Mock Job Interview Application using Generative AI
 
 Due to the insurance process redesign, management is expecting a lot of staff in the department to be re-trained into other roles.  Build an application that can be used by a staff member to practice job interviews for another role.  Here is a description of the requirements.
 
